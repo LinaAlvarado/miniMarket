@@ -1,0 +1,65 @@
+[
+    {"id":1,
+    "category":"shoes",
+    "item":"Tennis Nike",
+    "price":200000,
+    "url":"../assets/nike-shoes.webp",
+    "quantity": 0
+    },
+    {"id":2,
+    "category":"shoes",
+    "item":"Tennis Winni the Pooh",
+    "price":290000,
+    "url":"../assets/adidas-disney-shoes.webp",
+    "quantity": 0
+    },
+    {"id":3,
+    "category":"shoes",
+    "item":"Men´s Running Shoes",
+    "price":250000,
+    "url":"../assets/tennis-blue.jpg",
+    "quantity": 0
+    },
+    {"id":4,
+    "category":"clothes",
+    "item":"Wide-sleeved dress",
+    "price":50000,
+    "url":"../assets/drees-manga.jpg",
+    "quantity": 0
+    },
+    {"id":5,
+    "category":"clothes",
+    "item":"Blue dotted dress",
+    "price":70000,
+    "url":"../assets/blue-drees.jpg",
+    "quantity": 0
+    },
+    {"id":6,
+    "category":"clothes",
+    "item":"Retro dress",
+    "price":50000,
+    "url":"../assets/yellow-drees.webp",
+    "quantity": 0
+    },
+    {"id":7,
+    "category":"technology",
+    "item":"retro beige keyboard",
+    "price":500000,
+    "url":"../assets/teclado.webp",
+    "quantity": 0
+    },
+    {"id":8,
+    "category":"technology",
+    "item":"Ipad 9 generation",
+    "price":3000000,
+    "url":"../assets/ipad.png",
+    "quantity": 0
+    },
+    {"id":9,
+    "category":"technology",
+    "item":"Apple Pencil",
+    "price":600000,
+    "url":"../assets/pencil.jpg",
+    "quantity": 0
+    }
+]
